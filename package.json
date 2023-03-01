@@ -1,0 +1,22 @@
+{
+  "name": "labecommerce-backend",
+  "version": "1.0.0",
+  "description": "Projeto labecommerce backend da Labenu",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js Bruno"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devbrunoferreira/labecommerce-backend.git"
+  },
+  "keywords": [],
+  "author": "Bruno Ferreira",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/devbrunoferreira/labecommerce-backend/issues"
+  },
+  "homepage": "https://github.com/devbrunoferreira/labecommerce-backend#readme"
+}
