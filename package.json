@@ -1,12 +1,13 @@
 {
   "name": "labecommerce-backend",
   "version": "1.0.0",
-  "description": "Projeto labecommerce backend da Labenu",
+  "description": "Projeto Labecommerce Back-end da Labenu",
   "main": "index.js",
   "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node index.js Bruno"
+    "start": "node index.js Bruno",
+    "par-ou-impar": "node par-ou-impar.js"
   },
   "repository": {
     "type": "git",
